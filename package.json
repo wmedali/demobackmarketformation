@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {
     "cy:open": "cypress open",
-    "cy:run": "cypress run"
+    "cy:run": "cypress run --record --key 9e775ea4-b9a4-40d6-9157-5b49eeb6719a --browser chrome --headless"
   },
   "keywords": [],
-  "author": "", 
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^5.3.0"
